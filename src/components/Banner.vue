@@ -15,7 +15,7 @@ export default {
         background-image: url('/public/img/burger.jpg');
         background-position: 0 -250px;
         background-size: cover;
-        height: 500px;
+        height: 199px;
         display: flex;
         align-items: center;
         justify-content: flex-start;
@@ -23,7 +23,7 @@ export default {
     #main-banner h1{
         color: #fff;
         text-align: center;
-        font-size: 60px;
+        font-size: 30px;
         background-color: #222;
         padding: 20px 40px;
     }
