@@ -1,6 +1,6 @@
 <template>
     <div id="main-banner">
-        <h1>Make your burguer</h1>
+        <h1>Monte seu hambuguer</h1>
     </div>
 </template>
 
