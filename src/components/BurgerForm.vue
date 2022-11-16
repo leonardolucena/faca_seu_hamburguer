@@ -79,8 +79,7 @@ export default {
                 body: dataJson
             });
             const res = await req.json();
-            console.log(res);
-
+            
             this.msg = `Pedido N° ${res.id} realizado com sucesso`
 
             setTimeout(() => {
